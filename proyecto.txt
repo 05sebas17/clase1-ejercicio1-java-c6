@@ -1,4 +1,3 @@
 PascalCase
 camelCase
 snake-case
-cambio luugit 
